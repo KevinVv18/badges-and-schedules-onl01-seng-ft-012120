@@ -26,9 +26,5 @@ end
 return n_array
 end
 
-def printer(ptrin)
-print= b_array
-b_array
-if  b_array
- n_array
-end
+def printer(array)
+  
