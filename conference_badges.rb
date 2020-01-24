@@ -20,7 +20,7 @@ def assign_rooms(array)
 n_array= []
 counter= 0 
   array.each do (n_array.push("Hello, #{name} You'll be assigned to room #{counter}!"))
-counter += 1
+counter =+ 1
 end
 return n_array
 end
