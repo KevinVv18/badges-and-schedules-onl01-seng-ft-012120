@@ -27,5 +27,8 @@ return n_array
 end
 
 def printer(array)
-  batch_badge_creator.each |id|
+  batch_badge_creator.each do |id|
+    puts id
+  end
+  
   
