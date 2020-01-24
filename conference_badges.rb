@@ -15,4 +15,8 @@ end
 return b_array
 end
 
-def assign_rooms
+def assign_rooms(array)
+
+n_array= []
+counter= 0 
+array
