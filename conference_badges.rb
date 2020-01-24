@@ -26,9 +26,9 @@ end
 return n_array
 end
 
-def printer(array)
-  array= b_array
+def printer(ptrin)
+print= b_array
 b_array
 if return b_array
-else return n_array
+return n_array
 end
