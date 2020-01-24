@@ -7,10 +7,10 @@ end
 
 
 def batch_badge_creator(array)
-barray= []
+b_array= []
 array.each do |name|
-  barray.push("Hello, my name is #{name}.")
+  b_array.push("Hello, my name is #{name}.")
 
 end
-return barray
+return b_array
 end
