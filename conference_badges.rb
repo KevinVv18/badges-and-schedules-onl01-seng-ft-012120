@@ -9,5 +9,5 @@ end
 def batch_badge_creator(barray)
 barray= []
 barray.each do |name|
-  puts 
+  barray.push
 end
