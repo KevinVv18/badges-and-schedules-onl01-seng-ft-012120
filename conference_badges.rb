@@ -27,4 +27,5 @@ return n_array
 end
 
 def printer(array)
+  batch_badge_creator.each |id|
   
