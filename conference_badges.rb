@@ -27,10 +27,10 @@ return n_array
 end
 
 def printer(array)
-  batch_badge_creator.each do |id|
+  batch_badge_creator(array).each do |id|
     puts id
   end
-  assign_rooms.each do |id|
+  assign_rooms(array).each do |id|
     puts id
   end 
   
