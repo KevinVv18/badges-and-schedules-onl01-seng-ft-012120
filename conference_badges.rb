@@ -14,3 +14,5 @@ array.each do |name|
 end
 return b_array
 end
+
+def assign_rooms
