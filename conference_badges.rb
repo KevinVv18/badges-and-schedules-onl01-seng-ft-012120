@@ -19,4 +19,4 @@ def assign_rooms(array)
 
 n_array= []
 counter= 0 
-array
+  array.each do 
