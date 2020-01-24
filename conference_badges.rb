@@ -29,6 +29,6 @@ end
 def printer(ptrin)
 print= b_array
 b_array
-if return b_array
-return n_array
+if  b_array
+ n_array
 end
